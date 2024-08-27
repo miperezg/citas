@@ -97,6 +97,7 @@ public class MainController {
         cita.setValor(1000);
         cita.setPaymentStatus(PaymentStatus.PAYED);
         cita.setStatus(CitaEstado.PENDING);
+        cita.setId(Integer.toString(citas.size()+1));
         citas.add(cita);
         return new ResponseEntity<Cita>(cita, HttpStatus.OK);
     }
