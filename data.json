@@ -1,0 +1,10 @@
+{
+    "patient": {
+        "name": "Miguel",
+        "lastName": "Perez",
+        "email": "mi.perezg@duocuc.cl",
+        "phoneNumber": "+1234567890"
+    },
+    "doctorId": 0,
+    "availableIndex": 0
+}

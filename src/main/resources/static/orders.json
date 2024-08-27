@@ -1,0 +1,51 @@
+[{
+  "id": "ORD001",
+  "orderNumber": "CH2024001",
+  "orderStatus": "CONFIRMED",
+  "customer": {
+    "id": "CUST001",
+    "name": "Carlos",
+    "lastName": "González",
+    "email": "carlos.gonzalez@example.cl",
+    "phoneNumber": "+56 9 1234 5678",
+    "addresses": [
+      {
+        "id": "ADDR001",
+        "calle": "Avenida Apoquindo 1234",
+        "ciudad": "Santiago",
+        "comuna": "Las Condes",
+        "region": "RM"
+      },
+      {
+        "id": "ADDR002",
+        "calle": "Avenida Apoquindo 1238",
+        "ciudad": "Santiago",
+        "comuna": "Las Condes",
+        "region": "RM"
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "ITEM001",
+      "sku": "DOGFOOD123",
+      "itemName": "Comida Premium para Perros",
+      "description": "Bolsa de 10kg de comida premium para perros adultos.",
+      "price": 15000,
+      "quantity": 2,
+      "size": "L",
+      "petType": "DOG"
+    },
+    {
+      "id": "ITEM002",
+      "sku": "CATTOY456",
+      "itemName": "Juguete para Gato",
+      "description": "Pelota de juguete interactivo para gatos.",
+      "price": 5000,
+      "quantity": 1,
+      "size": "S",
+      "petType": "CAT"
+    }
+  ]
+}
+]

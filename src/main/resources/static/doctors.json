@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Juan",
+        "lastName": "Pérez",
+        "email": "juan.perez@example.com",
+        "phoneNumber": "+56 9 1234 5678",
+        "profession": "MEDICINA_GENERAL"
+    },
+    {
+        "id": 2,
+        "name": "María",
+        "lastName": "González",
+        "email": "maria.gonzalez@example.com",
+        "phoneNumber": "+56 9 1234 5679",
+        "profession": "PEDIATRIA"
+    },
+    {
+        "id": 3,
+        "name": "Carlos",
+        "lastName": "Ramírez",
+        "email": "carlos.ramirez@example.com",
+        "phoneNumber": "+56 9 1234 5680",
+        "profession": "FONOAUDIOLOGIA"
+    },
+    {
+        "id": 4,
+        "name": "Ana",
+        "lastName": "Fernández",
+        "email": "ana.fernandez@example.com",
+        "phoneNumber": "+56 9 1234 5681",
+        "profession": "TRAUMATOLOGO"
+    },
+    {
+        "id": 5,
+        "name": "Luis",
+        "lastName": "Martínez",
+        "email": "luis.martinez@example.com",
+        "phoneNumber": "+56 9 1234 5682",
+        "profession": "OFTALMOLOGO"
+    }
+]
